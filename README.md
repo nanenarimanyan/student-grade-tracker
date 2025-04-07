@@ -29,7 +29,7 @@ This project includes a sample CSV file (`student-scores(2).csv`) containing moc
    `pip install pandas matplotlib`
 
 3. Run the script  
-   `python student_grade_tracker.py`
+   `python student-grade-tracker.py`
 
 ## License
 
